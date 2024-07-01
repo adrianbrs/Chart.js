@@ -1,8 +1,11 @@
 # Deployment
 /coverage
 /custom
-/dist
+/dist/*
 /gh-pages
+
+# GitHub Pages
+!/dist/docs
 
 # Node.js
 node_modules/
