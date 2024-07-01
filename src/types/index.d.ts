@@ -2414,11 +2414,6 @@ export interface LegendOptions<TType extends ChartType> {
      */
     boxHeight: number;
     /**
-     * Padding between the color box and the text
-     * @default 1
-     */
-    boxPadding: number;
-    /**
      * Color of label
      * @see Defaults.color
      */
